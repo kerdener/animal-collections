@@ -1,10 +1,10 @@
 ### Animal groups
 
-The word "colony" can be used to describe a group of ants – "a colony of ants" – but can also be used badgers, bats, beavers, rabbits (and a few others). This small data projects makes it easy to explore this weird world of names. 
+The word "colony" can be used to describe a group of ants – "a colony of ants" – but can also be used to describe badgers, bats, beavers, rabbits (and a few others). This data projects makes it easy to explore this weird world of names using a graph.
 
 The `generate-cypher.sh` script will create a set of Cypher queries which can be used to populate a graph with 300+ "animal" and "group" combinations.
 
-The file `input.txt` contains inputs such as "albatross flock", which results in the following Cypher:
+The file `input.txt` contains inputs such as "albatross flock", which would result in the following Cypher:
 
     MERGE(:Animals {name:'albatross'});
 
