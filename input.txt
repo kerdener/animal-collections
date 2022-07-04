@@ -1,21 +1,24 @@
 albatross flock
-albatross gam
+albatross gam (searching for mates)
 albatross rookery
 alligators congregation
 alligators pod (young)
-alpaca herd
-ant army
-ant bike
-ant colony
-ant nest
-ant swarm
+alpacas hembra (female)
+alpacas herd
+alpacas macho (male)
 antelope cluster
 antelope herd
 antelope tribe
+ants army
+ants bike
+ants colony
+ants nest
+ants swarm
 apes shrewdness
 apes troop
 baboons congress
 baboons flange
+baboons group
 baboons tribe
 baboons troop
 badgers cete
@@ -24,7 +27,7 @@ badgers colony
 badgers company
 barracudas battery
 barracudas school
-bats cauldron
+bats camp
 bats cloud
 bats colony
 bats flock
@@ -33,21 +36,32 @@ bears sloth
 beavers colony
 beavers family
 bees bike
-bees cluster
+bees cast (second swarm)
+bees cluster (workers around the queen)
+bees colony
+bees drift
 bees geese
 bees grist
 bees hive
 bees nest
+bees rabble
+bees stand
 bees swarm
+beetles swarm
 bitterns sedge
 bloodhounds sute
+boars herd
 boars singular
-boars sounder
+boars sounder (12 or more)
 bobolinks chain
 buffalo gang
 buffalo herd
 buffalo obstinacy
 buffalo troop
+bulls gang
+bulls herd
+bulls obstinancy
+bulls troop
 butterflies flight
 butterflies flutter
 butterflies kaleidoscope
@@ -59,13 +73,18 @@ camels flock
 camels herd
 camels train
 caterpillars army
-cats clowder
+cats clowder (small)
+cats cluster
+cats clutter
 cats destruction (wild)
 cats glaring
 cats intrigue (young)
 cats kindle (young)
 cats litter (young)
+cats nuisance
+cats pillow (young)
 cats pounce
+cats pride (big)
 cattle mob
 chamois herd
 cheetas coalition
@@ -74,12 +93,17 @@ chickens clutch
 chickens flock
 chimpanzees group
 chimpanzees harem
+chimpanzees tribe
 chimpanzees troop
 chinchillas colony
 chinchillas herd
+civet committee
+civet gaze
+civet smack
 clams bed
 cobras quiver
 cockroaches intrusion
+cod school
 codfish school
 colts rag
 colts rake
@@ -107,6 +131,7 @@ crows unkindness
 deer bevy (female)
 deer brace (male)
 deer branch
+deer bunch
 deer clash
 deer gang
 deer herd
@@ -114,9 +139,13 @@ deer leash
 deer mob
 deer parcel
 deer rangale
-dogs cowardice (when curs)
-dogs litter (when puppies)
-dogs pack (when wild)
+dogfish troop
+dogs comedy (boxers)
+dogs cowardice (curs)
+dogs cry (hounds)
+dogs kennel
+dogs litter (puppies)
+dogs pack (wild)
 dolphins herd
 dolphins pod
 dolphins school
@@ -244,6 +273,8 @@ oxen drove
 oxen team
 oxen yoke
 oysters bed
+pandas bamboo
+pandas cupboard
 pandas embarrassment
 parrots company
 parrots pandemonium
@@ -251,6 +282,7 @@ partridge covey
 peacocks muster
 peacocks ostentation
 pelicans pod
+pelicans scoop
 pelicans squadron
 penguins colony
 penguins convent
@@ -283,13 +315,20 @@ rabbits colony
 rabbits down
 rabbits herd
 rabbits husk
+rabbits litter
 rabbits nest
 rabbits warren
+raccoon committee
+raccoon gaze
+raccoon smack
 raccoons boars (male)
 raccoons gaze
 raccoons sows (female)
+rats colony
+rats horde
+rats mischief
 rattlesnakes rhumba
-ravens unkindness
+ravens conspiracy
 rhinoceroses crash
 rhinoceroses stubbornness
 rooks building
@@ -299,14 +338,20 @@ sardines family
 seagulls squabble
 seals harem
 sharks shiver
+sheep flock
+sheep fold
+sheep herd
+skunk surfeit
 sloths bed
 snails escargatoire
 snails hood
 snails rout
 snails walk
+snakes ball
 snakes den
 snakes nest
 snakes pit
+snakes slither
 snipes walk
 snipes wisp
 sparrows host
@@ -319,9 +364,14 @@ stingrays fever
 storks muster
 storks mustering
 swans bevy
+swans flock
 swans game
+swans lamentation
 swans wedge (in flight)
 teal spring
+termites colony
+termites nest
+termites swarm
 thrushes mutation
 tigers ambush
 tigers streak
@@ -336,9 +386,20 @@ vultures committee
 vultures kettle
 vultures venue
 vultures wake group feeding on carcass
+wallabies mob
+walruses herd
+walruses pod
+wasps colony
+wasps hive
+wasps nest
+wasps swarm
+weasels gang
+weasels sneak
 whales gam
 whales herd
 whales pod
+wildebeest confusion
+wolverines pack
 wolves pack
 wolves rout
 wolves route in motion
@@ -346,6 +407,7 @@ wombats wisdom
 woodcocks fall
 woodpeckers descent
 worms bunch
+zebras cohort
 zebras dazzle
 zebras herd
 zebras zeal

@@ -70,6 +70,7 @@ Or combine them like this:
 ### References
 
 The following websites were used as input sources:
+* https://en.wikipedia.org/wiki/List_of_animal_names
 * https://www.theanimalfacts.com/glossary/animal-group-names/
 * https://owlcation.com/stem/collective-names-for-groups-of-animals
 
